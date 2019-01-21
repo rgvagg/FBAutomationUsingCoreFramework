@@ -1,0 +1,3 @@
+quickStart\selenium\FacebookAutomation\tests\BaseTest.class
+quickStart\selenium\FacebookAutomation\tests\CheckFbLoginPage.class
+quickStart\selenium\FacebookAutomation\pages\LoginPage.class
